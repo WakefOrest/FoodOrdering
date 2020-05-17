@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "8224e6d780cebab4a6444c7ca661c1cb"
+build_time: [1589686899, 390537000]
+inputs:
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/FoodOrderingInputDialog.swift": [1589683151, 833347220]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/FoodOrderingNewOrderDialog.swift": [1589534555, 98046188]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/FoodOrderingViewController.swift": [1589604882, 478654195]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/CategoryViewController.swift": [1589534555, 68001844]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/Database/SqlWrapper.swift": [1589531068, 702065437]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/FoodViewController.swift": [1589683730, 278517497]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/FoodOrderingAddOtherItemsViewController.swift": [1589683826, 396698082]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/EarlierOrdersViewController.swift": [1589626792, 381293666]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/FoodOrderingCell.swift": [1589440444, 56093959]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/Database/DatabaseTables.swift": [1589167306, 138380313]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/TodaysOrdersViewController.swift": [1589610879, 647800543]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/OrderDetailViewController.swift": [1589681684, 610423763]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/SettingsViewController.swift": [1589097670, 736662284]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/TodaysOrdersTableViewCell.swift": [1589607019, 479244734]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/TabBarController.swift": [1588585127, 922999826]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/AppDelegate.swift": [1589603487, 357181994]
+  "/Users/fOrest/Documents/WORKBENCH/Projects/FoodOrdering/FoodOrdering/SceneDelegate.swift": [1588395148, 697740070]
